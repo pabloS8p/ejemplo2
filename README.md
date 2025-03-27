@@ -1,9 +1,9 @@
-//explicacion del programa 
+# Explicacion del programa 
 
 Descripción Breve del Programa
 El Gestor de Documentos es una aplicación Java que permite a los usuarios gestionar documentos de manera sencilla. Los usuarios pueden ver, editar y eliminar documentos a través de una interfaz gráfica intuitiva. La aplicación utiliza el patrón de diseño Proxy para controlar el acceso a los documentos, asegurando que se gestionen adecuadamente las operaciones permitidas.
 
-//explicacion del metodo proxy
+# Explicacion del metodo proxy
 
 Patrón Proxy Implementado
 El patrón Proxy permite crear una clase que actúa como intermediaria entre el usuario y el objeto real (el documento). Esto tiene las siguientes ventajas:
@@ -16,3 +16,4 @@ Deshabilitar Funcionalidades: Cuando un documento es eliminado, el Proxy desacti
 
 Este enfoque proporciona una capa adicional de control y seguridad en la gestión de documentos.
 
+Por Pablo Rodriguez Casado, Miguel Angel Varo, Manuel Cañas Perez Angulo
